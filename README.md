@@ -9,7 +9,19 @@ I am a passionate **Software Developer** and a Computer Science student at *Eulo
 - 🎓 Currently pursuing my Bachelor of Science in Computer Science (2023 - Present).
 - 🚀 Actively looking for a **Full Stack Developer Internship**.
 - 💡 I enjoy working across the entire stack, from robust backend architectures to beautiful, responsive frontends.
-- 📫 How to reach me: **[renejuleregero30@gmail.com](mailto:renejuleregero30@gmail.com)**
+- 📫 How to reach me: **[renejuleregero30@gmail.com](mailto:renejuleregero30@gmail.com)** | 📞 **09932285168**
+- 📄 Checkout my **[Resume](./Resume_Regero.pdf)**
+
+<br>
+
+<div align="left">
+  <a href="https://www.facebook.com/rj.regero.1" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/rj_regero/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
 
 ---
 
