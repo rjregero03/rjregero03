@@ -76,14 +76,22 @@ Two-layer ML pipeline predicting leadership potential among youth members.
 </td>
 <td width="50%" valign="top">
 
-### 📌 More on the way
-Actively shipping. Pin your favorite repos here, or check the full list below.
+### 🚗 [Autocare — Car Services Management](https://github.com/rjregero03/autocare_car_services)
+Full-featured web platform for automating automotive service bookings and shop operations.
+- Dynamic customer booking system with live appointment tracking and digital receipts
+- Comprehensive admin dashboard for service pricing, scheduling, and message management
+- Secure authentication system with password recovery and email verification
 
-[**→ View all repositories**](https://github.com/rjregero03?tab=repositories)
+`PHP` `JavaScript` `MySQL` `CSS3`
 
 </td>
 </tr>
 </table>
+
+<br/>
+<div align="right">
+  <a href="https://github.com/rjregero03?tab=repositories"><b>→ View all repositories</b></a>
+</div>
 
 <br/>
 
