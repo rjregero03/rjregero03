@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2350,100:F5C842&height=260&section=header&text=Hi%20there!%20👋%20I'm%20Renejule&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20·%20Computer%20Science%20Student%20·"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2350,100:F5C842&height=260&section=header&text=Hi%20there!%20👋%20I'm%20Renejule&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20·%20Computer%20Science%20Student%20"/>
 
 <a href="https://www.facebook.com/rj.regero.1" target="_blank"><img src="https://img.shields.io/badge/Facebook-1A2350?style=for-the-badge&logo=facebook&logoColor=F5C842" alt="Facebook"/></a>
 <a href="https://www.instagram.com/rj_regero/" target="_blank"><img src="https://img.shields.io/badge/Instagram-1A2350?style=for-the-badge&logo=instagram&logoColor=F5C842" alt="Instagram"/></a>
