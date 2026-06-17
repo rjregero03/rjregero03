@@ -27,15 +27,14 @@ I am a passionate **Software Developer** and a Computer Science student at *Eulo
 
 ### 💻 Featured Projects
 
-#### 📱 [FocusOS – Intelligent Wellbeing App](https://github.com/rjregero03/FocusOS_app)
-- Developed a **Flutter**-based system with real-time app monitoring.
-- Integrated **Firebase** for dynamic analytics and notifications.
-- Implemented focus mode and behavior tracking.
-
-#### 🌐 [YTR – Chapter Centralized Management System](https://github.com/rjregero03/ytr-system)
-- Developed a role-based web system (RBAC) using **Laravel** and **MySQL**.
-- Integrated Wisdom Archive with **AI-powered search** for document retrieval and summarization.
-- Built dynamic dashboards with real-time data from a MySQL database.
+<div align="center">
+  <a href="https://github.com/rjregero03/FocusOS_app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rjregero03&repo=FocusOS_app&theme=radium&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" alt="FocusOS App Repo Card" />
+  </a>
+  <a href="https://github.com/rjregero03/ytr-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rjregero03&repo=ytr-system&theme=radium&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" alt="YTR System Repo Card" />
+  </a>
+</div>
 
 ---
 
