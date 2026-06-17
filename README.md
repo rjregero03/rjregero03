@@ -44,6 +44,13 @@ A role-based web platform built as a thesis project for a 60–100 member studen
 - Real-time dashboards pulling live data from MySQL for officer visibility into chapter activity
 - **Stack:** Laravel · MySQL · AI Integration
 
+#### 🤖 [YTR Leadership Potential Prediction System](./thesis_upgraded.py)
+A two-layer machine learning pipeline predicting leadership potential among youth members.
+- Developed a Stage 1 behavior model and Stage 2 final evaluation model with a rule-based safety layer
+- Built an interactive frontend data visualization dashboard using Streamlit
+- Handled dataset generation, model training, cross-validation, and metrics evaluation (F1-score, Precision, Recall)
+- **Stack:** Python · Scikit-learn · XGBoost · Pandas · Streamlit
+
 ---
 
 ### 📚 Currently Learning
@@ -79,6 +86,12 @@ A role-based web platform built as a thesis project for a 60–100 member studen
 <img src="https://img.shields.io/badge/SQLite-1A2350?style=for-the-badge&logo=sqlite&logoColor=F5C842" />
 
 <br>**Machine Learning & AI Concepts**<br>
+<img src="https://img.shields.io/badge/scikit--learn-1A2350?style=for-the-badge&logo=scikit-learn&logoColor=F5C842" />
+<img src="https://img.shields.io/badge/XGBoost-1A2350?style=for-the-badge&logo=xgboost&logoColor=F5C842" />
+<img src="https://img.shields.io/badge/Pandas-1A2350?style=for-the-badge&logo=pandas&logoColor=F5C842" />
+<img src="https://img.shields.io/badge/Streamlit-1A2350?style=for-the-badge&logo=streamlit&logoColor=F5C842" />
+<img src="https://img.shields.io/badge/Random%20Forest-1A2350?style=for-the-badge&logo=scikit-learn&logoColor=F5C842" />
+<img src="https://img.shields.io/badge/Logistic%20Regression-1A2350?style=for-the-badge&logo=scikit-learn&logoColor=F5C842" />
 <img src="https://img.shields.io/badge/k--Nearest%20Neighbors%20(kNN)-1A2350?style=for-the-badge&logo=scikit-learn&logoColor=F5C842" />
 <img src="https://img.shields.io/badge/Decision%20Trees-1A2350?style=for-the-badge&logo=quicktime&logoColor=F5C842" />
 <img src="https://img.shields.io/badge/Anomaly%20Detection%20(Z--Score)-1A2350?style=for-the-badge&logo=google-scholar&logoColor=F5C842" />
