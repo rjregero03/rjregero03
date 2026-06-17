@@ -107,59 +107,72 @@ Full-featured web platform for automating automotive service bookings and shop o
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🎨 Frontend & Mobile</b><br/><br/>
+      <img src="https://img.shields.io/badge/Flutter-1A2350?style=for-the-badge&logo=flutter&logoColor=F5C842"/>
+      <img src="https://img.shields.io/badge/React-1A2350?style=for-the-badge&logo=react&logoColor=F5C842"/>
+      <img src="https://img.shields.io/badge/JavaScript-1A2350?style=for-the-badge&logo=javascript&logoColor=F5C842"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-1A2350?style=for-the-badge&logo=tailwind-css&logoColor=F5C842"/>
+      <img src="https://img.shields.io/badge/Bootstrap-1A2350?style=for-the-badge&logo=bootstrap&logoColor=F5C842"/>
+      <img src="https://img.shields.io/badge/HTML5-1A2350?style=for-the-badge&logo=html5&logoColor=F5C842"/>
+      <img src="https://img.shields.io/badge/CSS3-1A2350?style=for-the-badge&logo=css3&logoColor=F5C842"/>
+    </td>
+    <td width="50%" valign="top">
+      <b>⚙️ Backend & Database</b><br/><br/>
+      <img src="https://img.shields.io/badge/PHP-1A2350?style=for-the-badge&logo=php&logoColor=F5C842"/>
+      <img src="https://img.shields.io/badge/Laravel-1A2350?style=for-the-badge&logo=laravel&logoColor=F5C842"/>
+      <img src="https://img.shields.io/badge/Node.js-1A2350?style=for-the-badge&logo=node.js&logoColor=F5C842"/>
+      <img src="https://img.shields.io/badge/Express-1A2350?style=for-the-badge&logo=express&logoColor=F5C842"/>
+      <img src="https://img.shields.io/badge/Python-1A2350?style=for-the-badge&logo=python&logoColor=F5C842"/>
+      <img src="https://img.shields.io/badge/Java-1A2350?style=for-the-badge&logo=openjdk&logoColor=F5C842"/>
+      <img src="https://img.shields.io/badge/MySQL-1A2350?style=for-the-badge&logo=mysql&logoColor=F5C842"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-1A2350?style=for-the-badge&logo=postgresql&logoColor=F5C842"/>
+      <img src="https://img.shields.io/badge/Firebase-1A2350?style=for-the-badge&logo=firebase&logoColor=F5C842"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🤖 ML & Data Science</b><br/><br/>
+      <img src="https://img.shields.io/badge/scikit--learn-1A2350?style=for-the-badge&logo=scikit-learn&logoColor=F5C842"/>
+      <img src="https://img.shields.io/badge/XGBoost-1A2350?style=for-the-badge&logo=xgboost&logoColor=F5C842"/>
+      <img src="https://img.shields.io/badge/Pandas-1A2350?style=for-the-badge&logo=pandas&logoColor=F5C842"/>
+      <img src="https://img.shields.io/badge/Streamlit-1A2350?style=for-the-badge&logo=streamlit&logoColor=F5C842"/>
+    </td>
+    <td width="50%" valign="top">
+      <b>☁️ Tools & Deployment</b><br/><br/>
+      <img src="https://img.shields.io/badge/Git-1A2350?style=for-the-badge&logo=git&logoColor=F5C842"/>
+      <img src="https://img.shields.io/badge/GitHub-1A2350?style=for-the-badge&logo=github&logoColor=F5C842"/>
+      <img src="https://img.shields.io/badge/VS_Code-1A2350?style=for-the-badge&logo=visual-studio-code&logoColor=F5C842"/>
+      <img src="https://img.shields.io/badge/Cloudflare-1A2350?style=for-the-badge&logo=cloudflare&logoColor=F5C842"/>
+      <img src="https://img.shields.io/badge/Hostinger-1A2350?style=for-the-badge&logo=hostinger&logoColor=F5C842"/>
+    </td>
+  </tr>
+</table>
 
-**Frontend & Mobile**
 <br/>
-<img src="https://img.shields.io/badge/Flutter-1A2350?style=for-the-badge&logo=flutter&logoColor=F5C842"/>
-<img src="https://img.shields.io/badge/React-1A2350?style=for-the-badge&logo=react&logoColor=F5C842"/>
-<img src="https://img.shields.io/badge/JavaScript-1A2350?style=for-the-badge&logo=javascript&logoColor=F5C842"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-1A2350?style=for-the-badge&logo=tailwind-css&logoColor=F5C842"/>
-<img src="https://img.shields.io/badge/Bootstrap-1A2350?style=for-the-badge&logo=bootstrap&logoColor=F5C842"/>
-<img src="https://img.shields.io/badge/HTML5-1A2350?style=for-the-badge&logo=html5&logoColor=F5C842"/>
-<img src="https://img.shields.io/badge/CSS3-1A2350?style=for-the-badge&logo=css3&logoColor=F5C842"/>
 
-**Backend & Database**
-<br/>
-<img src="https://img.shields.io/badge/PHP-1A2350?style=for-the-badge&logo=php&logoColor=F5C842"/>
-<img src="https://img.shields.io/badge/Laravel-1A2350?style=for-the-badge&logo=laravel&logoColor=F5C842"/>
-<img src="https://img.shields.io/badge/Node.js-1A2350?style=for-the-badge&logo=node.js&logoColor=F5C842"/>
-<img src="https://img.shields.io/badge/Express-1A2350?style=for-the-badge&logo=express&logoColor=F5C842"/>
-<img src="https://img.shields.io/badge/Python-1A2350?style=for-the-badge&logo=python&logoColor=F5C842"/>
-<img src="https://img.shields.io/badge/Java-1A2350?style=for-the-badge&logo=openjdk&logoColor=F5C842"/>
-<img src="https://img.shields.io/badge/MySQL-1A2350?style=for-the-badge&logo=mysql&logoColor=F5C842"/>
-<img src="https://img.shields.io/badge/PostgreSQL-1A2350?style=for-the-badge&logo=postgresql&logoColor=F5C842"/>
-<img src="https://img.shields.io/badge/Firebase-1A2350?style=for-the-badge&logo=firebase&logoColor=F5C842"/>
+## 📊 GitHub Stats & Activity
 
-**ML & Data**
-<br/>
-<img src="https://img.shields.io/badge/scikit--learn-1A2350?style=for-the-badge&logo=scikit-learn&logoColor=F5C842"/>
-<img src="https://img.shields.io/badge/XGBoost-1A2350?style=for-the-badge&logo=xgboost&logoColor=F5C842"/>
-<img src="https://img.shields.io/badge/Pandas-1A2350?style=for-the-badge&logo=pandas&logoColor=F5C842"/>
-<img src="https://img.shields.io/badge/Streamlit-1A2350?style=for-the-badge&logo=streamlit&logoColor=F5C842"/>
-
-**Tools & Deployment**
-<br/>
-<img src="https://img.shields.io/badge/Git-1A2350?style=for-the-badge&logo=git&logoColor=F5C842"/>
-<img src="https://img.shields.io/badge/GitHub-1A2350?style=for-the-badge&logo=github&logoColor=F5C842"/>
-<img src="https://img.shields.io/badge/VS_Code-1A2350?style=for-the-badge&logo=visual-studio-code&logoColor=F5C842"/>
-<img src="https://img.shields.io/badge/Cloudflare-1A2350?style=for-the-badge&logo=cloudflare&logoColor=F5C842"/>
-<img src="https://img.shields.io/badge/Hostinger-1A2350?style=for-the-badge&logo=hostinger&logoColor=F5C842"/>
-
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rjregero03&show_icons=true&theme=transparent&hide_border=true&title_color=1A2350&icon_color=F5C842&text_color=1A2350&ring_color=F5C842" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rjregero03&theme=transparent&hide_border=true&background=00000000&ring=F5C842&fire=F5C842&currStreakLabel=1A2350&sideLabels=1A2350&currStreakNum=1A2350&sideNums=1A2350&dates=1A2350" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjregero03&layout=compact&theme=transparent&hide_border=true&title_color=1A2350&text_color=1A2350&langs_count=8" height="165"/>
-
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=rjregero03&show_icons=true&theme=transparent&hide_border=true&title_color=1A2350&icon_color=F5C842&text_color=1A2350&ring_color=F5C842" width="100%"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rjregero03&theme=transparent&hide_border=true&background=00000000&ring=F5C842&fire=F5C842&currStreakLabel=1A2350&sideLabels=1A2350&currStreakNum=1A2350&sideNums=1A2350&dates=1A2350" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjregero03&layout=compact&theme=transparent&hide_border=true&title_color=1A2350&text_color=1A2350&langs_count=6" width="100%"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=rjregero03&bg_color=transparent&color=F5C842&line=1A2350&point=1A2350&area=true&hide_border=true&hide_title=true" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
