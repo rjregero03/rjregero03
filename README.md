@@ -158,18 +158,18 @@ Full-featured web platform for automating automotive service bookings and shop o
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=rjregero03&show_icons=true&theme=transparent&hide_border=true&title_color=1A2350&icon_color=F5C842&text_color=1A2350&ring_color=F5C842" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=rjregero03&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
     </td>
     <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rjregero03&theme=transparent&hide_border=true&background=00000000&ring=F5C842&fire=F5C842&currStreakLabel=1A2350&sideLabels=1A2350&currStreakNum=1A2350&sideNums=1A2350&dates=1A2350" width="100%"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rjregero03&theme=tokyonight&hide_border=true" width="100%"/>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjregero03&layout=compact&theme=transparent&hide_border=true&title_color=1A2350&text_color=1A2350&langs_count=6" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjregero03&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%"/>
     </td>
     <td width="50%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=rjregero03&bg_color=transparent&color=F5C842&line=1A2350&point=1A2350&area=true&hide_border=true&hide_title=true" width="100%"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=rjregero03&theme=tokyonight&hide_border=true&hide_title=true" width="100%"/>
     </td>
   </tr>
 </table>
