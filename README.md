@@ -27,12 +27,12 @@ I am a passionate **Software Developer** and a Computer Science student at *Eulo
 
 ### 💻 Featured Projects
 
-#### 📱 FocusOS – Intelligent Wellbeing App
+#### 📱 [FocusOS – Intelligent Wellbeing App](https://github.com/rjregero03/FocusOS_app)
 - Developed a **Flutter**-based system with real-time app monitoring.
 - Integrated **Firebase** for dynamic analytics and notifications.
 - Implemented focus mode and behavior tracking.
 
-#### 🌐 YTR – Chapter Centralized Management System
+#### 🌐 [YTR – Chapter Centralized Management System](https://github.com/rjregero03/ytr-system)
 - Developed a role-based web system (RBAC) using **Laravel** and **MySQL**.
 - Integrated Wisdom Archive with **AI-powered search** for document retrieval and summarization.
 - Built dynamic dashboards with real-time data from a MySQL database.
