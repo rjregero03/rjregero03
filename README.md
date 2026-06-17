@@ -76,12 +76,22 @@ A role-based web platform built as a thesis project for a 60–100 member studen
 <img src="https://img.shields.io/badge/MySQL-1A2350?style=for-the-badge&logo=mysql&logoColor=F5C842" />
 <img src="https://img.shields.io/badge/Firebase-1A2350?style=for-the-badge&logo=firebase&logoColor=F5C842" />
 <img src="https://img.shields.io/badge/PostgreSQL-1A2350?style=for-the-badge&logo=postgresql&logoColor=F5C842" />
+<img src="https://img.shields.io/badge/SQLite-1A2350?style=for-the-badge&logo=sqlite&logoColor=F5C842" />
 
-<br>**Tools & Other**<br>
+<br>**Machine Learning & AI Concepts**<br>
+<img src="https://img.shields.io/badge/k--Nearest%20Neighbors%20(kNN)-1A2350?style=for-the-badge&logo=scikit-learn&logoColor=F5C842" />
+<img src="https://img.shields.io/badge/Decision%20Trees-1A2350?style=for-the-badge&logo=quicktime&logoColor=F5C842" />
+<img src="https://img.shields.io/badge/Anomaly%20Detection%20(Z--Score)-1A2350?style=for-the-badge&logo=google-scholar&logoColor=F5C842" />
+<img src="https://img.shields.io/badge/Rule--Based%20Systems-1A2350?style=for-the-badge&logo=probot&logoColor=F5C842" />
+
+<br>**Tools & Deployment**<br>
 <img src="https://img.shields.io/badge/Git-1A2350?style=for-the-badge&logo=git&logoColor=F5C842" />
 <img src="https://img.shields.io/badge/GitHub-1A2350?style=for-the-badge&logo=github&logoColor=F5C842" />
 <img src="https://img.shields.io/badge/VS_Code-1A2350?style=for-the-badge&logo=visual-studio-code&logoColor=F5C842" />
-<img src="https://img.shields.io/badge/Machine_Learning-1A2350?style=for-the-badge&logo=google-scholar&logoColor=F5C842" />
+<img src="https://img.shields.io/badge/NPM-1A2350?style=for-the-badge&logo=npm&logoColor=F5C842" />
+<img src="https://img.shields.io/badge/Composer-1A2350?style=for-the-badge&logo=composer&logoColor=F5C842" />
+<img src="https://img.shields.io/badge/Cloudflare-1A2350?style=for-the-badge&logo=cloudflare&logoColor=F5C842" />
+<img src="https://img.shields.io/badge/Hostinger-1A2350?style=for-the-badge&logo=hostinger&logoColor=F5C842" />
 
 </div>
 
