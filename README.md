@@ -107,6 +107,7 @@ Actively shipping. Pin your favorite repos here, or check the full list below.
 <img src="https://img.shields.io/badge/React-1A2350?style=for-the-badge&logo=react&logoColor=F5C842"/>
 <img src="https://img.shields.io/badge/JavaScript-1A2350?style=for-the-badge&logo=javascript&logoColor=F5C842"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-1A2350?style=for-the-badge&logo=tailwind-css&logoColor=F5C842"/>
+<img src="https://img.shields.io/badge/Bootstrap-1A2350?style=for-the-badge&logo=bootstrap&logoColor=F5C842"/>
 <img src="https://img.shields.io/badge/HTML5-1A2350?style=for-the-badge&logo=html5&logoColor=F5C842"/>
 <img src="https://img.shields.io/badge/CSS3-1A2350?style=for-the-badge&logo=css3&logoColor=F5C842"/>
 
@@ -114,6 +115,8 @@ Actively shipping. Pin your favorite repos here, or check the full list below.
 <br/>
 <img src="https://img.shields.io/badge/PHP-1A2350?style=for-the-badge&logo=php&logoColor=F5C842"/>
 <img src="https://img.shields.io/badge/Laravel-1A2350?style=for-the-badge&logo=laravel&logoColor=F5C842"/>
+<img src="https://img.shields.io/badge/Node.js-1A2350?style=for-the-badge&logo=node.js&logoColor=F5C842"/>
+<img src="https://img.shields.io/badge/Express-1A2350?style=for-the-badge&logo=express&logoColor=F5C842"/>
 <img src="https://img.shields.io/badge/Python-1A2350?style=for-the-badge&logo=python&logoColor=F5C842"/>
 <img src="https://img.shields.io/badge/Java-1A2350?style=for-the-badge&logo=openjdk&logoColor=F5C842"/>
 <img src="https://img.shields.io/badge/MySQL-1A2350?style=for-the-badge&logo=mysql&logoColor=F5C842"/>
