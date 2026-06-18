@@ -87,15 +87,6 @@ Full-featured web platform for automating automotive service bookings and shop o
 
 <br/>
 
-## 📚 Currently Learning
-
-| Area | Focus |
-|---|---|
-| 📱 Android Development | XML layouts, UI/UX prototyping, native app fundamentals |
-| 🤖 Applied AI/ML | Rule-based scoring, Z-score anomaly detection → kNN/Decision Trees as data scales |
-| 🧮 Modeling & Simulation | Critical infrastructure interdependency analysis, cascading failures, probability simulations |
-
-<br/>
 
 ## 🛠️ Tech Stack
 
