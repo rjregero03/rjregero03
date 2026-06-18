@@ -18,22 +18,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a 3rd-year **BS Computer Science** student at *Eulogio "Amang" Rodriguez Institute of Science and Technology (EARIST)*, building mobile and web applications end to end — from database schema to the screen someone actually taps.
+I'm a 3rd-year **BS Computer Science** student at *Eulogio "Amang" Rodriguez Institute of Science and Technology (EARIST)*, driven by a passion for building scalable and user-focused digital solutions. I specialize in turning complex problems into intuitive, full-stack applications—from architecting robust database schemas to crafting seamless mobile and web interfaces. 
 
-```text
-const renejule = {
-    role: "Full-Stack Developer (Intern-track)",
-    location: "Quezon City, Philippines",
-    stack: ["Laravel", "MySQL", "React", "Flutter", "Tailwind"],
-    currentlyBuilding: "AI-assisted org management system (thesis)",
-    lookingFor: "Full-Stack / Mobile Dev Internship — 2026",
-};
-```
+I am currently seeking a **Full-Stack or Mobile Development Internship** where I can contribute my skills in Laravel, Flutter, React, and Machine Learning to a dynamic engineering team. I bring hands-on experience in building end-to-end production systems, integrating AI modules, and delivering clean, maintainable code.
 
-- 🚀 Actively looking for a **Full-Stack Developer Internship**
-- 💡 Comfortable across the stack — Laravel/MySQL on the backend, React/Tailwind and Flutter on the front
-- 🤖 Currently integrating rule-based and lightweight ML modules into a production-style system
-- 📫 **[renejuleregero30@gmail.com](mailto:renejuleregero30@gmail.com)** · 📞 0993 228 5168
+- 🚀 **Currently Building:** An AI-assisted organizational management system (thesis) with predictive analytics.
+- 💼 **Looking For:** A challenging Developer Internship where I can grow and add immediate value.
+- 📫 **Let's Connect:** [renejuleregero30@gmail.com](mailto:renejuleregero30@gmail.com) · 📞 0993 228 5168
 
 <br/>
 
