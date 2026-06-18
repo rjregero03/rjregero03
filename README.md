@@ -113,6 +113,8 @@ Full-featured web platform for automating automotive service bookings and shop o
     </td>
     <td width="50%" valign="top">
       <b>⚙️ Backend & Database</b><br/><br/>
+      <img src="https://img.shields.io/badge/C-1A2350?style=for-the-badge&logo=c&logoColor=F5C842"/>
+      <img src="https://img.shields.io/badge/C++-1A2350?style=for-the-badge&logo=c%2B%2B&logoColor=F5C842"/>
       <img src="https://img.shields.io/badge/PHP-1A2350?style=for-the-badge&logo=php&logoColor=F5C842"/>
       <img src="https://img.shields.io/badge/Laravel-1A2350?style=for-the-badge&logo=laravel&logoColor=F5C842"/>
       <img src="https://img.shields.io/badge/Node.js-1A2350?style=for-the-badge&logo=node.js&logoColor=F5C842"/>
