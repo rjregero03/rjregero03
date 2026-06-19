@@ -6,7 +6,7 @@
 <a href="https://www.facebook.com/rj.regero.1" target="_blank"><img src="https://img.shields.io/badge/Facebook-1A2350?style=for-the-badge&logo=facebook&logoColor=F5C842" alt="Facebook"/></a>
 <a href="https://www.instagram.com/rj_regero/" target="_blank"><img src="https://img.shields.io/badge/Instagram-1A2350?style=for-the-badge&logo=instagram&logoColor=F5C842" alt="Instagram"/></a>
 <a href="mailto:renejuleregero30@gmail.com"><img src="https://img.shields.io/badge/Email-1A2350?style=for-the-badge&logo=gmail&logoColor=F5C842" alt="Email"/></a>
-<a href="https://github.com/rjregero03/rjregero03/raw/main/Resume_Regero.pdf"><img src="https://img.shields.io/badge/Resume-1A2350?style=for-the-badge&logo=adobeacrobatreader&logoColor=F5C842" alt="Resume"/></a>
+<a href="https://github.com/rjregero03/rjregero03/raw/main/Regero_Resume.pdf"><img src="https://img.shields.io/badge/Resume-1A2350?style=for-the-badge&logo=adobeacrobatreader&logoColor=F5C842" alt="Resume"/></a>
 
 <br/>
 
